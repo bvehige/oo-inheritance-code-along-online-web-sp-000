@@ -7,7 +7,12 @@ def initialize(wheel_size, wheel_number)
   @wheel_number = wheel_number
 end
 
-def global_variables
-  
+def go 
+  "vrrrrrrrooom!"
+end
+
+def fill_up_tank
+  "filling up!"
+end
 
 end
